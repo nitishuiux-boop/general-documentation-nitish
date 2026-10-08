@@ -11,7 +11,7 @@ These override SKILL.md when they conflict.
 - **2026-10-07** · Asked for features grouped. Wanted 5 clear groups: exists no issue, exists with issue, not sure, research says remove, doesn't exist.
   **Rule:** sort into the groups asked for, add a short "what it is" line, miss nothing.
 
-- **2026-10-07** · Doc said "remove spin the wheel / RentPass / surveys / stories". Code and data showed spin and RentPass were already dead; surveys and stories were to be kept.
+- **2026-10-07** · A research doc listed 4 features to remove. Code and data showed 2 were already dead, and the owner wanted to keep the other 2.
   **Rule:** check the source of truth (code, data) before writing. Never remove what the owner wants to keep.
 
 - **2026-10-07** · Asked to update the main research doc. "Keep the formatting in check, do not go beyond the current format."
