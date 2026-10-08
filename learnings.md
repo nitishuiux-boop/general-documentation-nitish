@@ -61,3 +61,6 @@ These override SKILL.md when they conflict.
 
 - **2026-10-08** · Persona tree had root → groups → personas → 6 branches → items. "Should not contain multiple sections. Progressive disclosure is overused." Liked the small summary panel on the right.
   **Rule:** one level of disclosure at most. Show the answer directly with a tag (e.g. will work / to test / avoid) instead of nesting it in sections. Keep a small summary panel beside the main view on web.
+
+- **2026-10-08** · Hover tooltips in the persona artifact: "distracting, remove."
+  **Rule:** no hover tooltips. Put needed details in a visible summary panel instead.
