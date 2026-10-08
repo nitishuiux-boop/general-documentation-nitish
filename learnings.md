@@ -58,3 +58,6 @@ These override SKILL.md when they conflict.
 
 - **2026-10-08** · Research doc framed the old app as "fix what we have". Nitish: treat the revamp as a scratch project. No bugs or fixes. UX problems become "be careful about these" cautions. Functionality problems go in one separate block for engineers. A change in one place can make another place wrong, so check the whole doc. No over-structuring, no maze; use font hierarchy, keep it sober and minimal. Chat replies in ASD-STE100.
   **Rule:** see SKILL.md sections 3 and 4 (scratch framing, ripple check, STE100).
+
+- **2026-10-08** · Persona tree had root → groups → personas → 6 branches → items. "Should not contain multiple sections. Progressive disclosure is overused." Liked the small summary panel on the right.
+  **Rule:** one level of disclosure at most. Show the answer directly with a tag (e.g. will work / to test / avoid) instead of nesting it in sections. Keep a small summary panel beside the main view on web.
