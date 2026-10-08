@@ -31,3 +31,6 @@ These override SKILL.md when they conflict.
 
 - **2026-10-08** · Persona page used 5 personas from data; the spec repo had 8.
   **Rule:** when a spec repo exists, use its full list as the base. Mark each item's evidence strength instead of dropping it.
+
+- **2026-10-08** · Persona page called "messed up" for a founder read: too long, evidence and sources everywhere, flat structure.
+  **Rule:** for a founder or presentation doc, no evidence or source lines when evidence lives elsewhere. Order: one TL;DR callout → one summary table to memorise → shared rules → each item as a toggle with a grey one-line summary above it → next steps. Same short rows inside every toggle.

@@ -52,10 +52,11 @@ If a word only makes sense to someone who shares my context, replace it or expla
 - For configs, setups and per-persona pages, use **airplane-manual style**: same labelled parts in the same order every time (e.g. Who · Layout · On · Off · Test · Personalisation), plus `RULE`, `NOTE` and `CAUTION` callouts.
 - Keep things linear: item 1 complete, then item 2. No jumping between items.
 - End long pages with a side-by-side table and open questions.
+- **Founder or presentation docs:** build a hierarchy. TL;DR callout → one summary table to memorise → shared rules → one toggle per item, each with a grey one-line summary above it → next steps. Skip evidence if it lives elsewhere.
 - Keep summary counts in sync. If an item moves sections, update every count on the page (headings, "at a glance" boxes).
 
 **Evidence**
-- Every number gets a source line (interviews, data, code, repo).
+- Every number gets a source line (interviews, data, code, repo). Exception: founder or presentation docs where evidence lives on another page.
 - Say which count a % is out of (e.g. "of active tenants", not "of 1.13M records" when that includes leads).
 - Add evidence only where a reader might question the item. Obvious items get none.
 - Mark confidence plainly when it varies: 🟢 strong · 🟡 some · 🔴 almost none.
