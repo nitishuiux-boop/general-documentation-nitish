@@ -45,6 +45,9 @@ If a word only makes sense to someone who shares my context, replace it or expla
 - Use they/them for anyone whose pronouns aren't stated.
 
 **Structure**
+- **Scratch-project framing:** when a product is rebuilt, don't write "bugs" or "fixes". Old UX problems become short "Be careful about these" cautions. Old functionality problems go in one separate block for engineers, out of the main flow.
+- **Ripple check:** after any change, search the whole doc (every page) for the same item, number or claim, and update each place. Removing a feature or number in one place usually breaks another.
+- Use font hierarchy (H1, H2, bold, grey text) to guide the eye. Few levels, sober, minimal. No maze of nested sections.
 - Headers phrased as the reader's question or a plain label.
 - Lead each section with a one-line TL;DR.
 - Tables for comparisons, groups and side-by-sides.
@@ -94,6 +97,8 @@ Give each item a short "what it is" line. Don't miss any item.
 - Don't trust old numbers from a doc. Re-check them, or flag them as unverified.
 - Don't remove something the reader didn't name. If an item looks wrong, ask.
 - Don't reverse a decision the reader already made (e.g. "keep surveys") in a later edit.
+- Don't call items "bugs" or "fixes" in a scratch-project doc.
+- Don't over-structure: no extra levels, indexes or guide sections.
 - Don't put code in a brief or explainer. Code belongs only in build sheets.
 - Don't leave formatting broken after an edit.
 
@@ -116,6 +121,8 @@ When code and the doc disagree, the code wins. Write the gap in plain words.
 ---
 
 ## 6. Output in chat after editing a doc
+
+- Write the reply in ASD-STE100 Simplified Technical English: short sentences (max 20 words), active voice, one instruction per sentence, simple approved words, no idioms.
 
 - 2 to 6 lines: what changed, where, anything left for the reader to decide.
 - Give the link.

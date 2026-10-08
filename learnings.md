@@ -55,3 +55,6 @@ These override SKILL.md when they conflict.
 
 - **2026-10-08** · Offered two rendered directions (card deck vs magazine spread); Nitish answered with his own reference instead (a portfolio page: grey page, stacked white rounded cards, pill toggles with one pink accent, logo strip, thumbnail list rows).
   **Rule:** a reference he supplies beats the house style and both proposed directions. Break it into its parts, map each part to the content, build it. For visual docs, show two rendered directions before building all items, and expect a reframe.
+
+- **2026-10-08** · Research doc framed the old app as "fix what we have". Nitish: treat the revamp as a scratch project. No bugs or fixes. UX problems become "be careful about these" cautions. Functionality problems go in one separate block for engineers. A change in one place can make another place wrong, so check the whole doc. No over-structuring, no maze; use font hierarchy, keep it sober and minimal. Chat replies in ASD-STE100.
+  **Rule:** see SKILL.md sections 3 and 4 (scratch framing, ripple check, STE100).
