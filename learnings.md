@@ -49,3 +49,6 @@ These override SKILL.md when they conflict.
 
 - **2026-10-08** · Overview list of personas had a one-line summary each. "No details required."
   **Rule:** an overview list to eyeball is names only (emoji + name), grouped. Details live in the sections below.
+
+- **2026-10-08** · First HTML persona page: "too much scroll, very boring, no visuals."
+  **Rule:** for a visual doc, one object per screen in a bento layout. Turn text into visuals: timeline for a day, icon tiles for features, app-style icons for apps, chips for short lists, a dark strip for the key ideas. Cut every item to 2 to 5 words. Open with a big visual overview grid.
