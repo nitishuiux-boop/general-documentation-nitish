@@ -52,3 +52,6 @@ These override SKILL.md when they conflict.
 
 - **2026-10-08** · First HTML persona page: "too much scroll, very boring, no visuals."
   **Rule:** for a visual doc, one object per screen in a bento layout. Turn text into visuals: timeline for a day, icon tiles for features, app-style icons for apps, chips for short lists, a dark strip for the key ideas. Cut every item to 2 to 5 words. Open with a big visual overview grid.
+
+- **2026-10-08** · Offered two rendered directions (card deck vs magazine spread); Nitish answered with his own reference instead (a portfolio page: grey page, stacked white rounded cards, pill toggles with one pink accent, logo strip, thumbnail list rows).
+  **Rule:** a reference he supplies beats the house style and both proposed directions. Break it into its parts, map each part to the content, build it. For visual docs, show two rendered directions before building all items, and expect a reframe.
