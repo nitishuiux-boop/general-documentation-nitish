@@ -66,4 +66,7 @@ These override SKILL.md when they conflict.
   **Rule:** no hover tooltips. Put needed details in a visible summary panel instead.
 
 - **2026-10-08** · Takeaways mixed findings with suggested solutions. "If you suggest solutions in a takeaway, show them as examples; they are not final."
-  **Rule:** a takeaway states the finding. Any solution goes on its own line, marked "Example, not final:".
+  **Rule:** a takeaway states the finding. Any solution goes on its own line, marked "Example:" (not "Example, not final").
+
+- **2026-10-08** · Takeaway named competitor apps and called them "society apps". "Be gentle; don't point at specific apps." Also: once a format is agreed, keep it; don't reformat on every edit.
+  **Rule:** state findings in general terms ("apps with too many features", "25 to 30 features, top 5 used"), not by competitor name, in anything a founder or manager reads. Once Nitish approves a format, change only the item he asks to change.
