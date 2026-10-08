@@ -52,7 +52,7 @@ If a word only makes sense to someone who shares my context, replace it or expla
 - For configs, setups and per-persona pages, use **airplane-manual style**: same labelled parts in the same order every time (e.g. Who · Layout · On · Off · Test · Personalisation), plus `RULE`, `NOTE` and `CAUTION` callouts.
 - Keep things linear: item 1 complete, then item 2. No jumping between items.
 - End long pages with a side-by-side table and open questions.
-- **Founder or presentation docs:** build a hierarchy. TL;DR callout → one summary table to memorise → shared rules → one toggle per item, each with a grey one-line summary above it → next steps. Skip evidence if it lives elsewhere.
+- **Founder or presentation docs:** picture it on a shared screen in a 5-minute meeting. One TL;DR → one small card per item (3 lines max: name · who · what matters) grouped by decision (now / later) → one line of shared rules → what's needed first → at most 2 questions. No tables, no detail rows, no evidence if it lives elsewhere.
 - Keep summary counts in sync. If an item moves sections, update every count on the page (headings, "at a glance" boxes).
 
 **Evidence**

@@ -34,3 +34,6 @@ These override SKILL.md when they conflict.
 
 - **2026-10-08** · Persona page called "messed up" for a founder read: too long, evidence and sources everywhere, flat structure.
   **Rule:** for a founder or presentation doc, no evidence or source lines when evidence lives elsewhere. Order: one TL;DR callout → one summary table to memorise → shared rules → each item as a toggle with a grey one-line summary above it → next steps. Same short rows inside every toggle.
+
+- **2026-10-08** · Founder version with summary table + 7-row tables per persona: "didn't like table here, still excessive data. Visualise showing it to the founder."
+  **Rule:** before writing a founder doc, picture it on a shared screen in a 5-minute meeting. Per item: one small card, 3 lines max (name · one-line who · "sees first"). No tables, no detail rows. Group by decision (build now / later). End with at most 2 questions for the founder.
