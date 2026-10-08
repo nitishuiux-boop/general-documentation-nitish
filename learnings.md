@@ -43,3 +43,6 @@ These override SKILL.md when they conflict.
 
 - **2026-10-08** · Bottom bar written as a code line looked ugly. "Think like an expert product designer."
   **Rule:** when a doc describes a screen, show the screen. Draw a phone-like mock with Notion blocks (grey callout as the phone, nested coloured callouts as cards, a grey tab row at the bottom) next to the details in a 2-column layout. Never use inline code for UI. Use the same card colours for the same meaning across every item.
+
+- **2026-10-08** · Persona doc showed app tabs and screens that weren't decided yet. Nitish preferred describing the person: what's useful, apps they use, pain points; personalisation ideas after each persona. Notion felt limited, so an HTML artifact was made, with an overview list of all personas to eyeball first.
+  **Rule:** describe only what is decided. Don't present open design choices (tabs, layouts) as facts. For a set of objects (personas, segments), open with an overview grid of all of them, then one object per view. When Notion can't make it look good, offer a clean HTML artifact.
