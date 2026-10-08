@@ -40,3 +40,6 @@ These override SKILL.md when they conflict.
 
 - **2026-10-08** · Clarified the last two corrections: the problem was the extra sections (how to read, guide, rules index, build order, open questions), not the detail. "The main object should have as much detail as possible and look very good, using Notion fully."
   **Rule:** cut meta sections. The page is the main objects only (e.g. one block per persona), each as detailed and concrete as possible, using real example values on screen. Make it visual with Notion: coloured H1 per object, coloured callout for key facts, emoji sub-headings, red callout for hidden, blue for tests, dividers. No filler, fluff, repeats, gimmicky or vague words.
+
+- **2026-10-08** · Bottom bar written as a code line looked ugly. "Think like an expert product designer."
+  **Rule:** when a doc describes a screen, show the screen. Draw a phone-like mock with Notion blocks (grey callout as the phone, nested coloured callouts as cards, a grey tab row at the bottom) next to the details in a 2-column layout. Never use inline code for UI. Use the same card colours for the same meaning across every item.

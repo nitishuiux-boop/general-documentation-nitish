@@ -83,8 +83,9 @@ Give each item a short "what it is" line. Don't miss any item.
 
 - Don't write a research paper when a table answers it.
 - Don't create new pages, artifacts or documents unless asked.
-- Don't use multi-column layouts in Notion. Use plain lists.
+- Don't use multi-column layouts for plain lists in Notion. Columns are fine for a screen mock beside its details.
 - Don't dump text or write long bullets.
+- Don't use inline code to show UI (tab bars, buttons). Draw a mock instead: grey callout as the screen, nested coloured callouts as cards, grey tab row at the bottom, beside the details in 2 columns.
 - Don't add meta sections: how to read this, guides, README-style intros, indexes. Start with the content.
 - Don't use fancy, generic or gimmicky words. Banned: load-bearing, intrinsic, canonical, denominator, numerator, run-rate, altitude, leaf, primitive, cohort, reconcile, downstream, net-new, keystone, overlay, survivorship, day-weighted, leverage, robust, seamless, holistic, synergy.
 - Don't redefine the reader's own domain words. Point out only where the system differs from the shared word.
