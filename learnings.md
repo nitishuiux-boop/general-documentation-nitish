@@ -64,3 +64,6 @@ These override SKILL.md when they conflict.
 
 - **2026-10-08** · Hover tooltips in the persona artifact: "distracting, remove."
   **Rule:** no hover tooltips. Put needed details in a visible summary panel instead.
+
+- **2026-10-08** · Takeaways mixed findings with suggested solutions. "If you suggest solutions in a takeaway, show them as examples; they are not final."
+  **Rule:** a takeaway states the finding. Any solution goes on its own line, marked "Example, not final:".
