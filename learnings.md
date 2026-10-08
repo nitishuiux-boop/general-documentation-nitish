@@ -46,3 +46,6 @@ These override SKILL.md when they conflict.
 
 - **2026-10-08** · Persona doc showed app tabs and screens that weren't decided yet. Nitish preferred describing the person: what's useful, apps they use, pain points; personalisation ideas after each persona. Notion felt limited, so an HTML artifact was made, with an overview list of all personas to eyeball first.
   **Rule:** describe only what is decided. Don't present open design choices (tabs, layouts) as facts. For a set of objects (personas, segments), open with an overview grid of all of them, then one object per view. When Notion can't make it look good, offer a clean HTML artifact.
+
+- **2026-10-08** · Overview list of personas had a one-line summary each. "No details required."
+  **Rule:** an overview list to eyeball is names only (emoji + name), grouped. Details live in the sections below.
