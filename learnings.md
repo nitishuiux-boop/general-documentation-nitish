@@ -37,3 +37,6 @@ These override SKILL.md when they conflict.
 
 - **2026-10-08** · Founder version with summary table + 7-row tables per persona: "didn't like table here, still excessive data. Visualise showing it to the founder."
   **Rule:** before writing a founder doc, picture it on a shared screen in a 5-minute meeting. Per item: one small card, 3 lines max (name · one-line who · "sees first"). No tables, no detail rows. Group by decision (build now / later). End with at most 2 questions for the founder.
+
+- **2026-10-08** · Clarified the last two corrections: the problem was the extra sections (how to read, guide, rules index, build order, open questions), not the detail. "The main object should have as much detail as possible and look very good, using Notion fully."
+  **Rule:** cut meta sections. The page is the main objects only (e.g. one block per persona), each as detailed and concrete as possible, using real example values on screen. Make it visual with Notion: coloured H1 per object, coloured callout for key facts, emoji sub-headings, red callout for hidden, blue for tests, dividers. No filler, fluff, repeats, gimmicky or vague words.

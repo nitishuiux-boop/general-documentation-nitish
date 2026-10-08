@@ -52,7 +52,7 @@ If a word only makes sense to someone who shares my context, replace it or expla
 - For configs, setups and per-persona pages, use **airplane-manual style**: same labelled parts in the same order every time (e.g. Who · Layout · On · Off · Test · Personalisation), plus `RULE`, `NOTE` and `CAUTION` callouts.
 - Keep things linear: item 1 complete, then item 2. No jumping between items.
 - End long pages with a side-by-side table and open questions.
-- **Founder or presentation docs:** picture it on a shared screen in a 5-minute meeting. One TL;DR → one small card per item (3 lines max: name · who · what matters) grouped by decision (now / later) → one line of shared rules → what's needed first → at most 2 questions. No tables, no detail rows, no evidence if it lives elsewhere.
+- **Founder or presentation docs:** no meta sections (how to read, guides, index, rules lists, build order, open questions). The page is the main objects only, each as detailed and concrete as possible (real example values: "₹4,500 due on 5th", not "amount due"). Make it visual with Notion: coloured H1 per object, a coloured callout for key facts, emoji sub-headings, red callout for hidden, blue for tests, dividers between objects. Shared items go once, at the end.
 - Keep summary counts in sync. If an item moves sections, update every count on the page (headings, "at a glance" boxes).
 
 **Evidence**
@@ -85,6 +85,7 @@ Give each item a short "what it is" line. Don't miss any item.
 - Don't create new pages, artifacts or documents unless asked.
 - Don't use multi-column layouts in Notion. Use plain lists.
 - Don't dump text or write long bullets.
+- Don't add meta sections: how to read this, guides, README-style intros, indexes. Start with the content.
 - Don't use fancy, generic or gimmicky words. Banned: load-bearing, intrinsic, canonical, denominator, numerator, run-rate, altitude, leaf, primitive, cohort, reconcile, downstream, net-new, keystone, overlay, survivorship, day-weighted, leverage, robust, seamless, holistic, synergy.
 - Don't redefine the reader's own domain words. Point out only where the system differs from the shared word.
 - Don't add evidence to obvious items.
